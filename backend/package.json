@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^7.6.3",
+    "passport": "^0.6.0"
+  },
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "this is my backend of quots genrater",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon index.js",
+    "build":"npm i"
+  },
+  "author": "mohit pandey",
+  "license": "ISC"
+}
